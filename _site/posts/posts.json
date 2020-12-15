@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Data Science Blog",
-    "description": "Welcome to our new blog, Data Science Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to my new Data Science Blog. The goal of this blog is to share work I did for school as well as current projects and Tidy Tuesday analysis. I hope you enjoy \nreading what I have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Tyler Wilson",
+        "url": {}
       }
     ],
     "date": "2020-12-15",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-15T12:11:00-07:00",
-    "input_file": {}
+    "last_modified": "2020-12-15T14:16:03-07:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
